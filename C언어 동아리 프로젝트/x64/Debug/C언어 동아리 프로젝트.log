@@ -1,3 +1,25 @@
 ﻿  main.cpp
 C:\Users\Sunwoo\Documents\Github\C-club-project\C언어 동아리 프로젝트\main.cpp(17,12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  공룡게임.cpp
+  미로찾기 게임.cpp
+  퀴즈.cpp
+C:\Users\Sunwoo\Documents\Github\C-club-project\C언어 동아리 프로젝트\퀴즈.cpp(38,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sunwoo\Documents\Github\C-club-project\C언어 동아리 프로젝트\퀴즈.cpp(48,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Sunwoo\Documents\Github\C-club-project\C언어 동아리 프로젝트\퀴즈.cpp(398,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  테트리스.cpp
+C:\Users\Sunwoo\Documents\Github\C-club-project\C언어 동아리 프로젝트\테트리스.cpp(91,21): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\Sunwoo\Documents\Github\C-club-project\C언어 동아리 프로젝트\테트리스.cpp(91,25): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\Sunwoo\Documents\Github\C-club-project\C언어 동아리 프로젝트\테트리스.cpp(164,13): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\Sunwoo\Documents\Github\C-club-project\C언어 동아리 프로젝트\테트리스.cpp(172,12): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\Sunwoo\Documents\Github\C-club-project\C언어 동아리 프로젝트\테트리스.cpp(178,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Sunwoo\Documents\Github\C-club-project\C언어 동아리 프로젝트\테트리스.cpp(181,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Sunwoo\Documents\Github\C-club-project\C언어 동아리 프로젝트\테트리스.cpp(328,9): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\Sunwoo\Documents\Github\C-club-project\C언어 동아리 프로젝트\테트리스.cpp(329,15): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Sunwoo\Documents\Github\C-club-project\C언어 동아리 프로젝트\테트리스.cpp(331,24): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Sunwoo\Documents\Github\C-club-project\C언어 동아리 프로젝트\테트리스.cpp(368,12): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\Sunwoo\Documents\Github\C-club-project\C언어 동아리 프로젝트\테트리스.cpp(613,30): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Sunwoo\Documents\Github\C-club-project\C언어 동아리 프로젝트\테트리스.cpp(627,20): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\Sunwoo\Documents\Github\C-club-project\C언어 동아리 프로젝트\테트리스.cpp(628,19): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Sunwoo\Documents\Github\C-club-project\C언어 동아리 프로젝트\테트리스.cpp(650,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  코드를 생성하고 있습니다...
   C언어 동아리 프로젝트.vcxproj -> C:\Users\Sunwoo\Documents\Github\C-club-project\x64\Debug\C언어 동아리 프로젝트.exe
