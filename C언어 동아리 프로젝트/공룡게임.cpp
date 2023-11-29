@@ -102,7 +102,7 @@ bool isCollision(const int treeX, const int dinoY)
 	return false;
 }
 
-int main()
+int dinogame_start()
 {
 	SetConsoleView();
 

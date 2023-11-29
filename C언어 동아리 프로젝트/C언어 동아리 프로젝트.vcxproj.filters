@@ -13,10 +13,42 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\메인">
+      <UniqueIdentifier>{5449415b-4fe7-46b3-aabb-5ee12384091d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\공룡게임">
+      <UniqueIdentifier>{dfcfaec2-0d62-4b62-945b-0b372893ec23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\미로">
+      <UniqueIdentifier>{c87a08ed-db19-4304-96da-8bf7536bdea8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\테트리스">
+      <UniqueIdentifier>{e4125e80-ce78-4150-ad48-11b267910a95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\퀴즈">
+      <UniqueIdentifier>{1ccf2250-d896-464b-89bb-7960fabf394e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="공룡게임.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일\메인</Filter>
     </ClCompile>
+    <ClCompile Include="공룡게임.cpp">
+      <Filter>소스 파일\공룡게임</Filter>
+    </ClCompile>
+    <ClCompile Include="미로찾기 게임.cpp">
+      <Filter>소스 파일\미로</Filter>
+    </ClCompile>
+    <ClCompile Include="테트리스.cpp">
+      <Filter>소스 파일\테트리스</Filter>
+    </ClCompile>
+    <ClCompile Include="퀴즈.cpp">
+      <Filter>소스 파일\퀴즈</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AppBox.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
